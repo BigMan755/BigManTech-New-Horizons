@@ -2,7 +2,7 @@
 #General Config Section. See https://readme.firstdarkdev.xyz/simple-rpc/introduction/
 [general]
 	#The Application ID of the Discord App to use
-	applicationID = 762726289341677668
+	applicationID = 1235532411970912378
 	#Enable/Disable the mod
 	enabled = true
 	#Enable/Disable debugging mode. WARNING: MAY CAUSE LOG SPAM!
@@ -19,15 +19,15 @@
 	#Enable/Disable the Game Loading Event
 	enabled = true
 	#The first line of text under the app name
-	description = "Minecraft is loading"
+	description = "BigManTech New Horizons is loading"
 	#The second line of text under the app name
 	state = "Game Starting..."
 	#The Asset ID of the image to display as the large image
-	largeImageKey = "mclogonew"
+	largeImageKey = "bigmantech_new_horizons_logo"
 	#The text that gets displayed when the large image is hovered
-	largeImageText = "It's Minecraft %mcver%, but modded"
+	largeImageText = "The most carcinogenic minecraft modpack in history"
 	#The Asset ID of the image to display as the small image
-	smallImageKey = "mclogo"
+	smallImageKey = "bigmantech_new_horizons_logo_small"
 	#The text that gets displayed when the small image is hovered
 	smallImageText = "%mods% mods installed"
 	#The buttons to display on Discord
@@ -42,11 +42,11 @@
 	#The seconds line of text under the app name
 	state = "Chilling in the menu"
 	#The Asset ID of the image to display as the large image
-	largeImageKey = "mclogonew"
+	largeImageKey = "bigmantech_new_horizons_logo"
 	#The text that gets displayed when the large image is hovered
-	largeImageText = "It's Minecraft %mcver%, but modded"
+	largeImageText = "The most carcinogenic minecraft modpack in history"
 	#The Asset ID of the image to display as the small image
-	smallImageKey = "mclogo"
+	smallImageKey = "bigmantech_new_horizons_logo_small"
 	#The text that gets displayed when the small image is hovered
 	smallImageText = "%mods% mods installed"
 	#The buttons to display on Discord
@@ -59,13 +59,13 @@
 	#The first line of text under the app name
 	description = "%player% is looking for a server"
 	#The second line of text under the app name
-	state = "Searching for friends"
+	state = "Searching for friends even though they have none"
 	#The Asset ID of the image to display as the large image
-	largeImageKey = "mclogonew"
+	largeImageKey = "bigmantech_new_horizons_logo"
 	#The text that gets displayed when the large image is hovered
-	largeImageText = "It's Minecraft %mcver%, but modded"
+	largeImageText = "The most carcinogenic minecraft modpack in history"
 	#The Asset ID of the image to display as the small image
-	smallImageKey = "mclogo"
+	smallImageKey = "bigmantech_new_horizons_logo_small"
 	#The text that gets displayed when the small image is hovered
 	smallImageText = "%mods% mods installed"
 	#The buttons to display on Discord
@@ -80,11 +80,11 @@
 	#The second line of text under the app name
 	state = "Browsing Realms"
 	#The Asset ID of the image to display as the large image
-	largeImageKey = "mclogonew"
+	largeImageKey = "bigmantech_new_horizons_logo"
 	#The text that gets displayed when the large image is hovered
-	largeImageText = "It's Minecraft %mcver%, but modded"
+	largeImageText = "The most carcinogenic minecraft modpack in history"
 	#The Asset ID of the image to display as the small image
-	smallImageKey = "mclogo"
+	smallImageKey = "bigmantech_new_horizons_logo_small"
 	#The text that gets displayed when the small image is hovered
 	smallImageText = "%mods% mods installed"
 	#The buttons to display on Discord
@@ -99,11 +99,11 @@
 	#The second line of text under the app name
 	state = "Joining Game"
 	#The Asset ID of the image to display as the large image
-	largeImageKey = "mclogonew"
+	largeImageKey = "bigmantech_new_horizons_logo"
 	#The text that gets displayed when the large image is hovered
-	largeImageText = "It's Minecraft %mcver%, but modded"
+	largeImageText = "The most carcinogenic minecraft modpack in history"
 	#The Asset ID of the image to display as the small image
-	smallImageKey = "mclogo"
+	smallImageKey = "bigmantech_new_horizons_logo_small"
 	#The text that gets displayed when the small image is hovered
 	smallImageText = "%mods% mods installed"
 	#The buttons to display on Discord
@@ -118,11 +118,11 @@
 	#The second line of text under the app name
 	state = "Playing lonely mode"
 	#The Asset ID of the image to display as the large image
-	largeImageKey = "mclogonew"
+	largeImageKey = "bigmantech_new_horizons_logo"
 	#The text that gets displayed when the large image is hovered
-	largeImageText = "It's Minecraft %mcver%, but modded"
+	largeImageText = "The most carcinogenic minecraft modpack in history"
 	#The Asset ID of the image to display as the small image
-	smallImageKey = "mclogo"
+	smallImageKey = "bigmantech_new_horizons_logo_small"
 	#The text that gets displayed when the small image is hovered
 	smallImageText = "%mods% mods installed"
 	#The buttons to display on Discord
@@ -137,11 +137,11 @@
 	#The second line of text under the app name
 	state = "Playing online"
 	#The Asset ID of the image to display as the large image
-	largeImageKey = "mclogonew"
+	largeImageKey = "bigmantech_new_horizons_logo"
 	#The text that gets displayed when the large image is hovered
-	largeImageText = "It's Minecraft %mcver%, but modded"
+	largeImageText = "The most carcinogenic minecraft modpack in history"
 	#The Asset ID of the image to display as the small image
-	smallImageKey = "mclogo"
+	smallImageKey = "bigmantech_new_horizons_logo_small"
 	#The text that gets displayed when the small image is hovered
 	smallImageText = "%mods% mods installed"
 	#The buttons to display on Discord
@@ -156,11 +156,11 @@
 	#The second line of text under the app name
 	state = "Playing on a Realm"
 	#The Asset ID of the image to display as the large image
-	largeImageKey = "mclogonew"
+	largeImageKey = "bigmantech_new_horizons_logo"
 	#The text that gets displayed when the large image is hovered
-	largeImageText = "It's Minecraft %mcver%, but modded"
+	largeImageText = "The most carcinogenic minecraft modpack in history"
 	#The Asset ID of the image to display as the small image
-	smallImageKey = "mclogo"
+	smallImageKey = "bigmantech_new_horizons_logo_small"
 	#The text that gets displayed when the small image is hovered
 	smallImageText = "%realmdescription%"
 	#The buttons to display on Discord
@@ -169,15 +169,15 @@
 #Fallback event for disabled events
 [generic]
 	#The first line of text under the app name
-	description = "Playing Minecraft"
+	description = "Playing BigManTech New Horizons"
 	#The second line of text under the app name
 	state = ""
 	#The Asset ID of the image to display as the large image
-	largeImageKey = "mclogonew"
+	largeImageKey = "bigmantech_new_horizons_logo"
 	#The text that gets displayed when the large image is hovered
-	largeImageText = "It's Minecraft %mcver%, but modded"
+	largeImageText = "The most carcinogenic minecraft modpack in history"
 	#The Asset ID of the image to display as the small image
-	smallImageKey = "mclogo"
+	smallImageKey = "bigmantech_new_horizons_logo_small"
 	#The text that gets displayed when the small image is hovered
 	smallImageText = "%mods% mods installed"
 	#The buttons to display on Discord
