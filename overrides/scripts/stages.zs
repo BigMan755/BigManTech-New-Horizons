@@ -1,0 +1,1 @@
+mods.MobStages.addStage("three", "srparasites:buglin");
