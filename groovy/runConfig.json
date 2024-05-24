@@ -1,8 +1,8 @@
 {
-  "packName": "PlaceHolder name",
-  "packId": "placeholdername",
-  "version": "1.0.0",
-  "debug": false,
+  "packName": "BigManTech New Horizons",
+  "packId": "bmtnh",
+  "version": "0.0.2",
+  "debug": true,
   "classes": {
     "preInit": []
   },
